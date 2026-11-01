@@ -1,4 +1,4 @@
-#Walk the Stork 강화학습 프로젝트
+# Walk the Stork 강화학습 프로젝트
 
 게임 파일
 walkdastork는 인간과의 대결 기능 없이 AI 모델만 학습시키는 코드가 담긴 파일이며, walkdastorkaivshuman은 프레임 지연을 적용하여 인간과 AI를 비교할 수 있게 만든 코드가 담긴 파일입니다.
